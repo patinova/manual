@@ -67,14 +67,9 @@ Campos apresentados na lista em tela
 
 
 
-Edição
-Exclusão
-Cadastro
-Listar Receitas
 
 
-
-
+<img src="/img/menu_movimento.png">
 
 
 
