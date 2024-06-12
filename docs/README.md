@@ -36,8 +36,6 @@ Campos apresentados na lista em tela
   * Data da Baixa
   * Qtd. Receitas
 
-<img src="/img/movimento_acoes_programaticas.png">
-
 
 **Cenários para Testes**
 
@@ -68,7 +66,40 @@ Campos apresentados na lista em tela
                </tr>         
         </tbody>
 
-
+**Edição**
+<table class="waffle no-grid" cellspacing= "0">
+        <thead style="background-color:#B0C4DE">
+                <tr>    
+                        <th id="0C1" style="width:233px" class"column-headers-background">CENÁRIO</th>
+                        <th id="0C2" style="width:895px" class"column-headers-background">Editar pacientes com registro em programas de saúde</th>
+                </tr>
+        </thead>
+        <tbody>
+               <tr style="height:20px;">
+                        <td class="s1" dir="ltr">Dado </td>
+                        <td class="s2" dir="ltr">que estou logado no sistema e na tela Movimentos>Ações Programáticas - APS>Ações Programáticas </td>
+               </tr>         
+               <tr style="height:20px;">
+                        <td class="s1" dir="ltr">Quando</td>
+                        <td class="s2" dir="ltr">Seleciono uma das opções do filtro de busca </td>
+               </tr>
+               <tr style="height:20px;">
+                        <td class="s1" dir="ltr">E</td>
+                        <td class="s2" dir="ltr">Clico no ícone "Editar</td>
+               </tr>
+               <tr style="height:20px;">
+                        <td class="s1" dir="ltr">E</td>
+                        <td class="s2" dir="ltr">Altero um campo que seja passível de edição (programa / observação/data de baixa)</td>
+               </tr>
+               <tr style="height:20px;">
+                        <td class="s1" dir="ltr">E</td>
+                        <td class="s2" dir="ltr">Clico em no botão "Salvar"</td>
+               </tr>
+               <tr style="height:20px;">
+                        <td class="s1" dir="ltr">Então</td>
+                        <td class="s2" dir="ltr">o registro deverá ser salvo no banco com as atualizações registradas</td>
+               </tr>         
+        </tbody>
 
 
 
