@@ -4,11 +4,11 @@ Informações de usabilidade do sistema G-mus para entendimento e criação de c
 # Acões Programáticas - APS
 - Referem-se as atividades realizadas que são programadas nos Centros de Saúde relacionando programas, medicações, visitas, etc.
 ## Cadastros
-### Parâmetros
-### Rotas
-### Tipo de Acompanhamento
-## Movimentos
-### Ações Programáticas
+#### Parâmetros
+#### Rotas
+#### Tipo de Acompanhamento
+##  Movimentos
+#### Ações Programáticas
 Lista todos pacientes que possuem registro em programas de saúde onde há necessidade de serem geradas ações de visitas, controle, receitas.
 Tela:
 Filtro de busca 
@@ -34,8 +34,8 @@ Campos apresentados na lista em tela
 
 /img/movimento_acoes_progrmaticas.png
 
-Cenários para Testes de Regressão
-Consulta
+*Cenários para Testes de Regressão*
+*Consulta*
 <table class="waffle no-grid" cellspacing= "0">
         <thead style="background-color:#B0C4DE">
                 <tr>    
@@ -68,8 +68,11 @@ Exclusão
 Cadastro
 Listar Receitas
 
-### 
-
+#### Baixa de Ações Programáticas
+#### Pacientes para acompanhamento
+#### Consulta de Endereços
+#### Kit
+#### Troca quantidade
 
 
 
