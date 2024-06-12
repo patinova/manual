@@ -8,10 +8,13 @@ Informações de usabilidade do sistema G-mus para entendimento e criação de c
  - Rotas
  -  Tipo de Acompanhamento
 ##  Movimentos
-<img src="/img/lista.png">
+
  - Ações Programáticas
 Lista todos pacientes que possuem registro em programas de saúde onde há necessidade de serem geradas ações de visitas, controle, receitas.
-Tela:
+
+<img src="/img/lista.png">
+
+**Tela:**
 Filtro de busca 
 - Dropdown
   * Código
