@@ -22,7 +22,7 @@ Filtro de busca
 - Input
   Campo onde será inserido a palavra chave ou código para filtrar
 
-  Campos apresentados na lista em tela
+Campos apresentados na lista em tela
   * Ação - traz os ícones para exclusão / edição / listar receita
   * Código - número do ID do registro do paciente em Ações Programaticas
   * Cidadão - nome + código e informações do paciente
@@ -31,8 +31,16 @@ Filtro de busca
   * Data de Registro
   * Data da Baixa
   * Qtd. Receitas
-  * 
+
+    
 ![Lista Ações Programáticas](/img/movimento_acoes_progrmaticas.png ':class=sombracaixa')
+
+Cenários para Testes de Regressão
+Consulta
+Edição
+Exclusão
+Cadastro
+Listar Receitas
 
 ### 
 
