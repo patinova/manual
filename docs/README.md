@@ -13,12 +13,12 @@ Lista todos pacientes que possuem registro em programas de saúde onde há neces
 Tela:
 Filtro de busca 
 - Dropdown
-  # Código
-  # Cidadão
-  # Programa
-  # Ativo
-  # Data de Registro
-  # Data de Baixa
+  * Código
+  * Cidadão
+  * Programa
+  * Ativo
+  * Data de Registro
+  * Data de Baixa
 - Input
   Campo onde será inserido a palavra chave ou código para filtrar
 
