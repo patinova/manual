@@ -32,7 +32,7 @@ Campos apresentados na lista em tela
   * Data da Baixa
   * Qtd. Receitas
 
-<img src="/img/movimento_acoes_progrmaticas.png">
+<img src="/img/movimento_acoes_programaticas.png">
 
 *Cenários para Testes de Regressão*
 *Consulta*
