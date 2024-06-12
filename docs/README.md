@@ -39,11 +39,10 @@ Campos apresentados na lista em tela
 
 **Cenários para Testes**
 
-**Consultas**
 <table class="waffle no-grid" cellspacing= "0">
         <thead style="background-color:#B0C4DE">
                 <tr>    
-                        <th id="0C1" style="width:233px" class"column-headers-background">CENÁRIO</th>
+                        <th id="0C1" style="width:233px" class"column-headers-background">CENÁRIO CONSULTA</th>
                         <th id="0C2" style="width:895px" class"column-headers-background">Listar pacientes com registro em programas de saúde</th>
                 </tr>
         </thead>
@@ -70,7 +69,7 @@ Campos apresentados na lista em tela
 <table class="waffle no-grid" cellspacing= "0">
         <thead style="background-color:#B0C4DE">
                 <tr>    
-                        <th id="0C1" style="width:233px" class"column-headers-background">CENÁRIO</th>
+                        <th id="0C1" style="width:233px" class"column-headers-background">CENÁRIO EDIÇÃO</th>
                         <th id="0C2" style="width:895px" class"column-headers-background">Editar pacientes com registro em programas de saúde</th>
                 </tr>
         </thead>
