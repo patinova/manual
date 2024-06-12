@@ -5,6 +5,11 @@
 **[Teste](README.MD ':class=btn')**
 
 
+# manual 
+informações de usabilidade do sistema
+Ações Programáticas
+#Acões Programáticas
+##Cadastros
 
 
 
@@ -13,11 +18,6 @@
 
 
 
-# manual 
-informações de usabilidade do sistema
-Ações Programáticas
-#Acões Programáticas
-##Cadastros
 
 
 
