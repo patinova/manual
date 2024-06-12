@@ -32,8 +32,7 @@ Campos apresentados na lista em tela
   * Data da Baixa
   * Qtd. Receitas
 
-    
-![Lista Ações Programáticas](/img/movimento_acoes_progrmaticas.png ':class=sombracaixa')
+/img/movimento_acoes_progrmaticas.png
 
 Cenários para Testes de Regressão
 Consulta
