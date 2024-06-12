@@ -37,6 +37,33 @@ Campos apresentados na lista em tela
 
 Cenários para Testes de Regressão
 Consulta
+<table class="waffle no-grid" cellspacing= "0">
+        <thead style="background-color:#B0C4DE">
+                <tr>    
+                        <th id="0C1" style="width:233px" class"column-headers-background">CENÁRIO</th>
+                        <th id="0C2" style="width:895px" class"column-headers-background">Listar pacientes com registro em programas de saúde</th>
+                </tr>
+        </thead>
+        <tbody>
+               <tr style="height:20px;">
+                        <td class="s1" dir="ltr">Dado </td>
+                        <td class="s2" dir="ltr">que estou logado no sistema e na tela Movimentos>Ações Programáticas - APS>Ações Programáticas </td>
+               </tr>         
+               <tr style="height:20px;">
+                        <td class="s1" dir="ltr">Quando</td>
+                        <td class="s2" dir="ltr">Seleciono uma das opções do filtro de busca </td>
+               </tr>
+               <tr style="height:20px;">
+                        <td class="s1" dir="ltr">E</td>
+                        <td class="s2" dir="ltr">Insiro um termo de busca no campo input</td>
+               </tr>
+               <tr style="height:20px;">
+                        <td class="s1" dir="ltr">Então</td>
+                        <td class="s2" dir="ltr">a lista de pacientes que correspondem aos critérios de busca será exibida</td>
+               </tr>         
+        </tbody>
+
+
 Edição
 Exclusão
 Cadastro
