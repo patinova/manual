@@ -65,7 +65,7 @@ Campos apresentados na lista em tela
                </tr>         
         </tbody>
 
-**Edição**
+
 <table class="waffle no-grid" cellspacing= "0">
         <thead style="background-color:#B0C4DE">
                 <tr>    
