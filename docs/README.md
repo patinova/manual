@@ -31,6 +31,7 @@ Filtro de busca
   * Data de Registro
   * Data da Baixa
   * Qtd. Receitas
+  * 
 ![Lista Ações Programáticas](/img/movimento_acoes_progrmaticas.png ':class=sombracaixa')
 
 ### 
